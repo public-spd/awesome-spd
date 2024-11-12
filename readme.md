@@ -60,7 +60,7 @@
   - [TikTok @jusos.de](https://www.tiktok.com/@jusos.de)
   - [WhatsApp](https://www.spd.de/whatsapp)
   - [Whatsapp](https://www.spd.de/unterstuetzen/whatsapp)
-  - [YouTube](https://www.youtube.com/user/SPDvision)
+  - [YouTube @SPDvision](https://www.youtube.com/user/SPDvision)
   - [X @jusos](https://x.com/jusos)
 - Landesverbände und Ortsvereine
   - Berlin
