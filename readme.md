@@ -29,6 +29,7 @@
     - [Migration und Vielfalt](https://vielfalt.spd.de)
   - [Jugendorganisation](https://www.jusos.de/)
 - Landesverbände und Ortsvereine
+  - [Berlin](https://spd.berlin)
   - [Sachsen](https://sachsenspd.de)
     - [SPD Dresden](https://www.spd-dresden.de)
         - [SPD Fraktion Dresden](https://spd-fraktion-dresden.de/) - Die SPD-Fraktion im dresdner Stadtrat.
@@ -62,6 +63,12 @@
   - [YouTube](https://www.youtube.com/user/SPDvision)
   - [X @jusos](https://x.com/jusos)
 - Landesverbände und Ortsvereine
+  - Berlin
+    - [Facebook @SPD.Berlin](https://www.facebook.com/SPD.Berlin)
+    - [Instagram @spdberlin](https://www.instagram.com/spdberlin/)
+    - [Threads @spdberlin](https://www.threads.net/@spdberlin)
+    - [TikTok @spdberlin](https://www.tiktok.com/@spdberlin)
+    - [YouTube @spdberlin](https://www.youtube.com/spdberlin)
   - Sachsen
     - [Facebook @SPD.Sachsen](https://www.facebook.com/SPD.Sachsen)
     - [Instagram @spdsachsen](https://www.instagram.com/spdsachsen/)
