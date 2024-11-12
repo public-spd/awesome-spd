@@ -29,7 +29,7 @@
     - [Migration und Vielfalt](https://vielfalt.spd.de)
   - [Jugendorganisation](https://www.jusos.de/)
 - Landesverbände und Ortsvereine
-  - [Landesverband Sachsen](https://sachsenspd.de)
+  - [Sachsen](https://sachsenspd.de)
     - [SPD Dresden](https://www.spd-dresden.de)
         - [SPD Fraktion Dresden](https://spd-fraktion-dresden.de/) - Die SPD-Fraktion im dresdner Stadtrat.
         - [Jusos Dresden](https://dresden.jusos.info/)
