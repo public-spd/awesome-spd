@@ -46,6 +46,7 @@
   - [Instagram @pes_pse](https://www.instagram.com/pes_pse/)
   - [LinkedIn](https://www.linkedin.com/company/979780/admin/)
   - [Linktr.ee @PES_PSE](https://linktr.ee/pes_pse)
+  - [Telegram Channel @spd_de](https://t.me/s/spd_de)
   - [Tik Tok @pes_pse](https://www.tiktok.com/@pes_pse)
   - [YouTube](https://www.youtube.com/channel/UCDQw4C8Af4cpaASzCMQ4v7A)
   - [X @PES_PSE](https://x.com/PES_PSE)
