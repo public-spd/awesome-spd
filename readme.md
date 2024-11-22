@@ -117,9 +117,12 @@
 
 ## Online-Kalender
 
+- Bundesebene
+  - [SPD.de](https://raw.githubusercontent.com/public-spd/spd-ics/refs/heads/main/ics/spd-de.ics) (scraped)
+  - [SPDFraktion.de](https://raw.githubusercontent.com/public-spd/spd-ics/refs/heads/main/ics/spdfraktion-de.ics) (scraped)
 - Landesverbände und Ortsvereine
   - Sachsen
-    - Dresden
+    - [Dresden](https://raw.githubusercontent.com/public-spd/spd-ics/refs/heads/main/ics/spd-dresden-de.ics) (scraped)
       - [SPD Pieschen ICS](https://calendar.google.com/calendar/ical/r2oqimffjc5u7uhbuvshfvnil4%40group.calendar.google.com/public/basic.ics)
 
 
