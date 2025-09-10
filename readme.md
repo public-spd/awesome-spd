@@ -88,7 +88,7 @@
       - Pieschen
         - [Facebook @SPDpieschen](https://www.facebook.com/SPDpieschen)
         - [Instagram @spd_dresden_pieschen](https://www.instagram.com/spd_dresden_pieschen/)
-        - [Mastodon](@www.spd-pieschen.de@rss-parrot.net) RSS-Feed der Webseite
+        - [Mastodon @www.spd-pieschen.de@rss-parrot.net](https://rss-parrot.net/u/www.spd-pieschen.de) RSS-Feed der Webseite
 - Webadmin
   - [Bluesky @soziserver.de](https://bsky.app/profile/soziserver.de)
   - [Mastodon @soziserver](https://unaone.social/@soziserver)
