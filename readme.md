@@ -76,7 +76,8 @@
     - Dresden
       - [Facebook @SPD.Fraktion.Dresden](https://www.facebook.com/SPD.Fraktion.Dresden)
       - [Instagram @spd.fraktion.dresden](https://instagram.com/spd.fraktion.dresden)
-      - [X @spd_fraktion_dd](https://x.com/spd_fraktion_dd) Fraktion im Stadtrat
+      - [X @spd_fraktion_dd](https://x.com/spd_fraktion_dd)
+      - [Fediverse/Mastodon @SPD_Fraktion_Dresden@dresden.network](https://dresden.network/@SPD_Fraktion_Dresden)
       - Jusos
         - [Instagram @jusosdd](https://www.instagram.com/jusosdd/)
         - [Mastodon @jusos@dresden.network](https://dresden.network/@jusos)
