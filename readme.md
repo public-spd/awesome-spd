@@ -30,6 +30,8 @@
   - [Jugendorganisation](https://www.jusos.de/)
 - Landesverbände und Ortsvereine
   - [Berlin](https://spd.berlin)
+  - Niedersachsen
+    - [SPD Geschichtswerkstatt](https://www.spd-geschichtswerkstatt.de]
   - [Sachsen](https://sachsenspd.de)
     - [SPD Dresden](https://www.spd-dresden.de)
         - [SPD Fraktion Dresden](https://spd-fraktion-dresden.de/) - Die SPD-Fraktion im dresdner Stadtrat.
